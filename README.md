@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditya01-sah&show_icons=true&locale=en" alt="aaditya01-sah" /></p>
 
-<h2 align="left">Hi 👋! I'm a  a cloud engineer from ktm</h2>
+<h2 align="left">Hi</h2>
 
 ###
 
